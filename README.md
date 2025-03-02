@@ -1,5 +1,6 @@
-# BlinkIt-Clone-Full-Stack-Ecommerce
-BlinkIt-Clone-Full-Stack-Ecommerce
+# Blinkit fullstack mern app
+<!-- # BlinkIt-Clone-Full-Stack-Ecommerce -->
+<!-- BlinkIt-Clone-Full-Stack-Ecommerce
 
 ![Alt text](Thumnails.png?raw=true "Title")
 
@@ -16,6 +17,6 @@ Google Drive : https://drive.google.com/drive/folders/1llzO3ts3NJKrQ0A2XWZYaO-T0
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amit prajapati"/>
  </a>
 
- Youtube : Dynamic Coding with Amit
+ Youtube : Dynamic Coding with Amit -->
 
  
